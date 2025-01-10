@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 ## Recent posts
 <!-- LATEST_BLOG_POSTS -->
+
+- [动态规划算法讲解](https://www.believed-breadfruit.top/动态规划算法讲解/动态规划算法讲解/动态规划算法讲解/动态规划算法讲解/)
+- [可视化拖拽平台——低代码编辑器（第四届字节青训营项目）](https://www.believed-breadfruit.top/可视化拖拽平台——低代码编辑器（第四届字节青训营项目）/可视化拖拽平台——低代码编辑器（第四届字节青训营项目）/可视化拖拽平台——低代码编辑器（第四届字节青训营项目）/可视化拖拽平台——低代码编辑器（第四届字节青训营项目）/)
+- [基于EJS+Node.js+MongoDB的全栈电商平台（全英文）](https://www.believed-breadfruit.top/基于EJS+Node.js+MongoDB的全栈电商平台（全英文）/基于EJS+Node.js+MongoDB的全栈电商平台（全英文）/基于EJS+Node.js+MongoDB的全栈电商平台（全英文）/基于EJS+Node.js+MongoDB的全栈电商平台（全英文）/)
+- [微前端技术综述](https://www.believed-breadfruit.top/微前端技术综述/微前端技术综述/微前端技术综述/微前端技术综述/)
+- [我是如何建立我的第一个博客网站的？](https://www.believed-breadfruit.top/我是如何建立我的第一个博客网站的？/我是如何建立我的第一个博客网站的？/我是如何建立我的第一个博客网站的？/我是如何建立我的第一个博客网站的？/)
