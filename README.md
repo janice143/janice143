@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Recent posts
-
+<!-- LATEST_BLOG_POSTS -->
