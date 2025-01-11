@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 - [2024-12-30-系统2指导下的习惯](https://www.believed-breadfruit.top/2024/12/30/2024-12-30-系统2指导下的习惯/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
+<!-- LATEST_BLOG_POSTS__END -->
 :globe_with_meridians: View more: [believed-breadfruit.top](https://www.believed-breadfruit.top/archives/)
