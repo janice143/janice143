@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-01-26-自我理论](https://www.believed-breadfruit.top/2025/01/26/2025-01-26-自我理论/)
+- [2025-01-23-你必须要做的三件事情](https://www.believed-breadfruit.top/2025/01/23/2025-01-23-你必须要做的三件事情/)
 - [2025-01-19-20250112-20250119周刊](https://www.believed-breadfruit.top/2025/01/19/2025-01-19-20250112-20250119周刊/)
 - [2025-01-16-how-to-solve-big-questions-如何解决大问题](https://www.believed-breadfruit.top/2025/01/16/2025-01-16-how-to-solve-big-questions-如何解决大问题/)
 - [2025-01-13-20250105-20250112周刊](https://www.believed-breadfruit.top/2025/01/13/2025-01-13-20250105-20250112周刊/)
-- [2025-01-09-关于我观点上的一个特征](https://www.believed-breadfruit.top/2025/01/09/2025-01-09-关于我观点上的一个特征/)
-- [2025-01-08-为什么人们喜欢收藏各种视频、网页、教材、课程，但是不喜欢消费这些内容](https://www.believed-breadfruit.top/2025/01/08/2025-01-08-为什么人们喜欢收藏各种视频、网页、教材、课程，但是不喜欢消费这些内容/)
+<!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
