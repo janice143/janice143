@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
-- [2025-01-26-自我理论](https://www.believed-breadfruit.top/2025/01/26/2025-01-26-自我理论/)
-- [2025-01-23-你必须要做的三件事情](https://www.believed-breadfruit.top/2025/01/23/2025-01-23-你必须要做的三件事情/)
-- [2025-01-19-20250112-20250119周刊](https://www.believed-breadfruit.top/2025/01/19/2025-01-19-20250112-20250119周刊/)
-- [2025-01-16-how-to-solve-big-questions-如何解决大问题](https://www.believed-breadfruit.top/2025/01/16/2025-01-16-how-to-solve-big-questions-如何解决大问题/)
-- [2025-01-13-20250105-20250112周刊](https://www.believed-breadfruit.top/2025/01/13/2025-01-13-20250105-20250112周刊/)
+- [2025-02-05-我的网名janice143](https://www.believed-breadfruit.top/2025/02/05/2025-02-05-我的网名janice143/)
+- [2025-02-01-如何创造知识](https://www.believed-breadfruit.top/2025/02/01/2025-02-01-如何创造知识/)
+- [2025-01-31-我的自律观](https://www.believed-breadfruit.top/2025/01/31/2025-01-31-我的自律观/)
+- [2025-01-30-今天聊聊八卦](https://www.believed-breadfruit.top/2025/01/30/2025-01-30-今天聊聊八卦/)
+- [2025-01-26-我的abcdefg人格](https://www.believed-breadfruit.top/2025/01/26/2025-01-26-我的abcdefg人格/)
+<!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
