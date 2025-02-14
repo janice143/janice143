@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
-- [2025-04-11-产研过程精细度分析](https://www.believed-breadfruit.top/2025/04/11/2025-04-11-产研过程精细度分析/)
 - [2025-02-08-用第一性原理从零推导前端知识体系](https://www.believed-breadfruit.top/2025/02/08/2025-02-08-用第一性原理从零推导前端知识体系/)
 - [2025-02-06-最近我在跑什么chatgpt tasks](https://www.believed-breadfruit.top/2025/02/06/2025-02-06-最近我在跑什么chatgpt tasks/)
 - [2025-02-06-如何本地部署deep-seek-r1](https://www.believed-breadfruit.top/2025/02/06/2025-02-06-如何本地部署deep-seek-r1/)
 - [2025-02-05-我的网名janice143](https://www.believed-breadfruit.top/2025/02/05/2025-02-05-我的网名janice143/)
+- [2025-02-01-如何创造知识](https://www.believed-breadfruit.top/2025/02/01/2025-02-01-如何创造知识/)
+<!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
