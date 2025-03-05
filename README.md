@@ -12,13 +12,13 @@ Here are some facts about me:
 
 - Earned my **bachelor's and master's degrees** from ZJNU, participated in [competitions](https://www.google.com/search?q=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6++%2B%E5%85%B0%E7%87%95%E5%B9%B3&num=10&newwindow=1&sca_esv=b04edf4c6777ddf8&ei=vIjIZ6SCKfuVjuMP9rGByAQ&ved=0ahUKEwik0MPDuvOLAxX7imMGHfZYAEkQ4dUDCBA&uact=5&oq=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6++%2B%E5%85%B0%E7%87%95%E5%B9%B3&gs_lp=Egxnd3Mtd2l6LXNlcnAiHua1meaxn-W4iOiMg-Wkp-WtpiAgK-WFsOeHleW5s0iICFDsBVjsBXABeACQAQCYAZEBoAGRAaoBAzAuMbgBA8gBAPgBAZgCAaACA8ICCBAAGLADGO8FwgILEAAYgAQYsAMYogSYAwCIBgGQBgWSBwExoAdX&sclient=gws-wiz-serp), published [research papers](https://www.bing.com/search?q=浙江师范大学+%22兰燕平%22&qs=n&form=QBRE&sp=-1&lq=0&pq=浙江师范大学+%22兰燕平%22&sc=1-12&sk=&cvid=E21EF061B50A470A9512B0DE06441D9A&ghsh=0&ghacc=0&ghpl=), and secured [patents](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=15007414_9_dg&wd=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%20%E5%85%B0%E7%87%95%E5%B9%B3&oq=%25E6%25B5%2599%25E6%25B1%259F%25E5%25B8%2588%25E8%258C%2583%25E5%25A4%25A7%25E5%25AD%25A6%2520%252B%25E5%2585%25B0%25E7%2587%2595%25E5%25B9%25B3&rsv_pq=f4eb7cc70008de08&rsv_t=6160P%2BNxvc6MeptEvYh%2Fwmb5kjzWrBcjIY8ljSRYVegn2fUxUuoUTPtTDad96gjt3Gat%2Fg&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=925&rsv_sug3=17&rsv_sug1=18&rsv_sug7=100&bs=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%20%2B%E5%85%B0%E7%87%95%E5%B9%B3).
 - My [ORCID](https://orcid.org/0000-0002-8704-254X) profile lists 5 papers where I am the first author.
-- Worked at Goodme Tech from November 2022 to December 2024 and published [3 articles](https://juejin.cn/post/7323436080312893476) on the [古茗掘金](https://juejin.cn/user/3233040624266695/) account.
+- Worked at [Goodme Tech](http://www.goodmecha.cn/) from November 2022 to December 2024 and published [3 articles](https://juejin.cn/post/7323436080312893476) on the [古茗掘金](https://juejin.cn/user/3233040624266695/) account.
 
 <!-- [![lanyanping's GitHub stats](https://github-readme-stats.vercel.app/api?username=janice143&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br/>
 
-Feel free to reach out to me
+Feel free to reach out to me:
 
 - **[GitHub](https://github.com/janice143)**  
 - **[掘金](https://juejin.cn/user/2889962280982936)**
