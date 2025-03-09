@@ -81,6 +81,7 @@ Also, I'm crazy about **thinking and writing**.
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
+<!-- LATEST_BLOG_POSTS__END -->
 
 ## Recommended posts
 
