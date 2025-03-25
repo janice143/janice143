@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-Also, I'm crazy about **thinking and writing**.
+One more thing, I'm crazy about **thinking and writing**.
 
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
