@@ -50,11 +50,12 @@ Also, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-03-20-让命运的随机性带我去任何地方](https://www.believed-breadfruit.top/2025/03/20/2025-03-20-让命运的随机性带我去任何地方/)
+- [2025-03-19-我在博客emo的第一天](https://www.believed-breadfruit.top/2025/03/19/2025-03-19-我在博客emo的第一天/)
 - [2025-03-17-超大冰美式有多少咖啡因？](https://www.believed-breadfruit.top/2025/03/17/2025-03-17-超大冰美式有多少咖啡因？/)
 - [2025-03-09-我的写作工作流](https://www.believed-breadfruit.top/2025/03/09/2025-03-09-我的写作工作流/)
 - [2025-03-09-cursor无痛写谷歌插件](https://www.believed-breadfruit.top/2025/03/09/2025-03-09-cursor无痛写谷歌插件/)
-- [2025-03-07-“为了学习大模型，我把这周的婚礼取消了”](https://www.believed-breadfruit.top/2025/03/07/2025-03-07-“为了学习大模型，我把这周的婚礼取消了”/)
-- [2025-03-03-循环迭代和持续反馈](https://www.believed-breadfruit.top/2025/03/03/2025-03-03-循环迭代和持续反馈/)
+<!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
