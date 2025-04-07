@@ -50,11 +50,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-04-07-非典型极客](https://www.believed-breadfruit.top/2025/04/07/2025-04-07-非典型极客/)
+- [2025-04-04-我这辈子有这两个理论就够了](https://www.believed-breadfruit.top/2025/04/04/2025-04-04-我这辈子有这两个理论就够了/)
 - [2025-03-30-什么是基本事实](https://www.believed-breadfruit.top/2025/03/30/2025-03-30-什么是基本事实/)
-- [2025-03-25-2025季度复盘：找工作](https://www.believed-breadfruit.top/2025/03/25/2025-03-25-2025季度复盘：找工作/)
+- [2025-03-25-2025面试复盘和向内探索](https://www.believed-breadfruit.top/2025/03/25/2025-03-25-2025面试复盘和向内探索/)
 - [2025-03-20-让命运的随机性带我去任何地方](https://www.believed-breadfruit.top/2025/03/20/2025-03-20-让命运的随机性带我去任何地方/)
-- [2025-03-19-我在博客emo的第一天](https://www.believed-breadfruit.top/2025/03/19/2025-03-19-我在博客emo的第一天/)
-- [2025-03-17-超大冰美式有多少咖啡因？](https://www.believed-breadfruit.top/2025/03/17/2025-03-17-超大冰美式有多少咖啡因？/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
