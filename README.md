@@ -50,11 +50,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-05-18-我创建了个游戏，大家快来玩一玩](https://www.believed-breadfruit.top/2025/05/18/2025-05-18-我创建了个游戏，大家快来玩一玩/)
+- [2025-05-18-听力问题风波](https://www.believed-breadfruit.top/2025/05/18/2025-05-18-听力问题风波/)
+- [2025-05-18-写不出来的提示工程白皮书](https://www.believed-breadfruit.top/2025/05/18/2025-05-18-写不出来的提示工程白皮书/)
+- [2025-05-18-15公里的跑步目标看来要失败了](https://www.believed-breadfruit.top/2025/05/18/2025-05-18-15公里的跑步目标看来要失败了/)
 - [2025-04-13-如何严肃地论证我很瘦](https://www.believed-breadfruit.top/2025/04/13/2025-04-13-如何严肃地论证我很瘦/)
-- [2025-04-07-非典型极客](https://www.believed-breadfruit.top/2025/04/07/2025-04-07-非典型极客/)
-- [2025-04-04-我这辈子有这两个理论就够了](https://www.believed-breadfruit.top/2025/04/04/2025-04-04-我这辈子有这两个理论就够了/)
-- [2025-03-30-什么是基本事实](https://www.believed-breadfruit.top/2025/03/30/2025-03-30-什么是基本事实/)
-- [2025-03-25-2025面试复盘和向内探索](https://www.believed-breadfruit.top/2025/03/25/2025-03-25-2025面试复盘和向内探索/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
