@@ -50,11 +50,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-06-18-我无法创造的东西-我看不懂](https://www.believed-breadfruit.top/2025/06/18/2025-06-18-我无法创造的东西-我看不懂/)
 - [2025-06-02-最近迷恋健身](https://www.believed-breadfruit.top/2025/06/02/2025-06-02-最近迷恋健身/)
 - [2025-06-02-【til】什么是happy-path](https://www.believed-breadfruit.top/2025/06/02/2025-06-02-【til】什么是happy-path/)
 - [2025-06-02-20250525-20250602好文推荐](https://www.believed-breadfruit.top/2025/06/02/2025-06-02-20250525-20250602好文推荐/)
 - [2025-05-26-【TIL】-divergent-branches-警告](https://www.believed-breadfruit.top/2025/05/26/2025-05-26-【TIL】-divergent-branches-警告/)
-- [2025-05-25-神经网络算法奠基人](https://www.believed-breadfruit.top/2025/05/25/2025-05-25-神经网络算法奠基人/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
