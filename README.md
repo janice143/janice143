@@ -2,11 +2,7 @@
 
 Hi, I'm Alicia, a passionate self-taught front-end developer with a growing fascination for AI. I love experimenting with AI technologies—whether to solve real-world problems or simply for the thrill of discovery.
 
-I have a wide range of interests, including physics, computer science, philosophy, psychology, and English. I truly love the pursuit of **pure rational knowledge itself**. Such factual knowledge expands my worldview, outlook on life, and values, allowing me to see the universe, nature, and fundamental laws—not just the interactions between people in society.
-
-Also, I like to imagine myself as a monkey hitting keys on life's great typewriter, hoping to whip up my own Shakespeare. Fueled by infinite possibilities and a touch of chaos, I’m here to explore, create, and see where randomness takes me.
-
-<br/>
+I like to imagine myself as a monkey hitting keys on life's great typewriter, hoping to whip up my own Shakespeare. Fueled by infinite possibilities and a touch of chaos, I’m here to explore, create, and see where randomness takes me.
 
 Here are some facts about me:
 
@@ -15,8 +11,6 @@ Here are some facts about me:
 - Worked at [Goodme Tech](http://www.goodmecha.cn/) from November 2022 to December 2024 and published [3 articles](https://juejin.cn/post/7323436080312893476) on the [古茗掘金](https://juejin.cn/user/3233040624266695/) account.
 
 <!-- [![lanyanping's GitHub stats](https://github-readme-stats.vercel.app/api?username=janice143&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br/>
 
 Feel free to reach out to me:
 
