@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-08-14-一个模型的诞生](https://www.believed-breadfruit.top/2025/08/14/2025-08-14-一个模型的诞生/)
 - [2025-08-05-大模型是否真的在“推理”？一种重新定义逻辑推理的思考](https://www.believed-breadfruit.top/2025/08/05/2025-08-05-大模型是否真的在“推理”？一种重新定义逻辑推理的思考/)
 - [2025-07-27-英语口语提升很开心](https://www.believed-breadfruit.top/2025/07/27/2025-07-27-英语口语提升很开心/)
 - [2025-07-23-我不想写too-personal的文章了](https://www.believed-breadfruit.top/2025/07/23/2025-07-23-我不想写too-personal的文章了/)
 - [2025-07-06-如何让你爱上健身](https://www.believed-breadfruit.top/2025/07/06/2025-07-06-如何让你爱上健身/)
-- [2025-06-27-要解决哪些问题-——-richard-feynman](https://www.believed-breadfruit.top/2025/06/27/2025-06-27-要解决哪些问题-——-richard-feynman/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
