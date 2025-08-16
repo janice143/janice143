@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
-- [2025-08-14-一个模型的诞生](https://www.believed-breadfruit.top/2025/08/14/2025-08-14-一个模型的诞生/)
+- [2025-08-16-用-numpy-和基础代数从零构建神经网络（以-mnist-为例）](https://www.believed-breadfruit.top/2025/08/16/2025-08-16-用-numpy-和基础代数从零构建神经网络（以-mnist-为例）/)
+- [2025-08-16-理解神经网络的学习](https://www.believed-breadfruit.top/2025/08/16/2025-08-16-理解神经网络的学习/)
+- [2025-08-14-从零开始推导神经网络](https://www.believed-breadfruit.top/2025/08/14/2025-08-14-从零开始推导神经网络/)
 - [2025-08-05-大模型是否真的在“推理”？一种重新定义逻辑推理的思考](https://www.believed-breadfruit.top/2025/08/05/2025-08-05-大模型是否真的在“推理”？一种重新定义逻辑推理的思考/)
 - [2025-07-27-英语口语提升很开心](https://www.believed-breadfruit.top/2025/07/27/2025-07-27-英语口语提升很开心/)
-- [2025-07-23-我不想写too-personal的文章了](https://www.believed-breadfruit.top/2025/07/23/2025-07-23-我不想写too-personal的文章了/)
-- [2025-07-06-如何让你爱上健身](https://www.believed-breadfruit.top/2025/07/06/2025-07-06-如何让你爱上健身/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
