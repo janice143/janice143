@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-11-17-我的问题观（二）](https://www.believed-breadfruit.top/2025/11/17/2025-11-17-我的问题观（二）/)
+- [2025-11-17-我好像明白了什么是纯粹理性](https://www.believed-breadfruit.top/2025/11/17/2025-11-17-我好像明白了什么是纯粹理性/)
 - [2025-10-19-我的问题观](https://www.believed-breadfruit.top/2025/10/19/2025-10-19-我的问题观/)
 - [2025-10-05-science-is-a-bitch](https://www.believed-breadfruit.top/2025/10/05/2025-10-05-science-is-a-bitch/)
 - [2025-09-21-what-would-she-say](https://www.believed-breadfruit.top/2025/09/21/2025-09-21-what-would-she-say/)
-- [2025-09-07-读胡渊明《当ceo重读phd》](https://www.believed-breadfruit.top/2025/09/07/2025-09-07-读胡渊明《当ceo重读phd》/)
-- [2025-08-16-用-numpy-和基础代数从零构建神经网络（以-mnist-为例）](https://www.believed-breadfruit.top/2025/08/16/2025-08-16-用-numpy-和基础代数从零构建神经网络（以-mnist-为例）/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
