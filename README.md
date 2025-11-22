@@ -45,10 +45,10 @@ One more thing, I'm crazy about **thinking and writing**.
 <!-- LATEST_BLOG_POSTS__START -->
 
 - [2025-11-22-欲望管理：当自控力出现裂缝](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-欲望管理：当自控力出现裂缝/)
+- [2025-11-22-极简复盘网页的提示词](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-极简复盘网页的提示词/)
 - [2025-11-22-我要开始运营小红书了](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-我要开始运营小红书了/)
 - [2025-11-22-一个ai极简复盘思路](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-一个ai极简复盘思路/)
 - [2025-11-17-我的问题观（二）](https://www.believed-breadfruit.top/2025/11/17/2025-11-17-我的问题观（二）/)
-- [2025-11-17-我好像明白了什么是纯粹理性](https://www.believed-breadfruit.top/2025/11/17/2025-11-17-我好像明白了什么是纯粹理性/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
