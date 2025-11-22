@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2025-11-22-欲望管理：当自控力出现裂缝](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-欲望管理：当自控力出现裂缝/)
+- [2025-11-22-我要开始运营小红书了](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-我要开始运营小红书了/)
+- [2025-11-22-一个ai极简复盘思路](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-一个ai极简复盘思路/)
 - [2025-11-17-我的问题观（二）](https://www.believed-breadfruit.top/2025/11/17/2025-11-17-我的问题观（二）/)
 - [2025-11-17-我好像明白了什么是纯粹理性](https://www.believed-breadfruit.top/2025/11/17/2025-11-17-我好像明白了什么是纯粹理性/)
-- [2025-10-19-我的问题观](https://www.believed-breadfruit.top/2025/10/19/2025-10-19-我的问题观/)
-- [2025-10-05-science-is-a-bitch](https://www.believed-breadfruit.top/2025/10/05/2025-10-05-science-is-a-bitch/)
-- [2025-09-21-what-would-she-say](https://www.believed-breadfruit.top/2025/09/21/2025-09-21-what-would-she-say/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
