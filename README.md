@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2026-01-25-confession-systems-thinking-and-antifragility](https://www.believed-breadfruit.top/2026/01/25/2026-01-25-confession-systems-thinking-and-antifragility/)
 - [2025-12-14-我和英语的关系](https://www.believed-breadfruit.top/2025/12/14/2025-12-14-我和英语的关系/)
 - [2025-12-10-理解transformer架构](https://www.believed-breadfruit.top/2025/12/10/2025-12-10-理解transformer架构/)
 - [2025-12-10-工程世界的我第一次直面人性的复杂](https://www.believed-breadfruit.top/2025/12/10/2025-12-10-工程世界的我第一次直面人性的复杂/)
 - [2025-12-09-关于信息挑战的个人感悟](https://www.believed-breadfruit.top/2025/12/09/2025-12-09-关于信息挑战的个人感悟/)
-- [2025-11-22-欲望管理：当自控力出现裂缝](https://www.believed-breadfruit.top/2025/11/22/2025-11-22-欲望管理：当自控力出现裂缝/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
