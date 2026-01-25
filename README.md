@@ -47,8 +47,8 @@ One more thing, I'm crazy about **thinking and writing**.
 - [2026-01-25-confession-systems-thinking-and-antifragility](https://www.believed-breadfruit.top/2026/01/25/2026-01-25-confession-systems-thinking-and-antifragility/)
 - [2026-01-20-讲讲这一年非常喜欢的系统论](https://www.believed-breadfruit.top/2026/01/20/2026-01-20-讲讲这一年非常喜欢的系统论/)
 - [2026-01-03-2025年写作总结](https://www.believed-breadfruit.top/2026/01/03/2026-01-03-2025年写作总结/)
+- [2026-01-02-学英语还要背单词吗](https://www.believed-breadfruit.top/2026/01/02/2026-01-02-学英语还要背单词吗/)
 - [2025-12-14-我和英语的关系](https://www.believed-breadfruit.top/2025/12/14/2025-12-14-我和英语的关系/)
-- [2025-12-10-理解transformer架构](https://www.believed-breadfruit.top/2025/12/10/2025-12-10-理解transformer架构/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
