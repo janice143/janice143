@@ -44,7 +44,7 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
-- [2026-01-25-confession-systems-thinking-and-antifragility](https://www.believed-breadfruit.top/2026/01/25/2026-01-25-confession-systems-thinking-and-antifragility/)
+- [2026-02-01-paul-graham《how-to-do-great-work》（2023-年-7-月）](https://www.believed-breadfruit.top/2026/02/01/2026-02-01-paul-graham《how-to-do-great-work》（2023-年-7-月）/)
 - [2026-01-20-讲讲这一年非常喜欢的系统论](https://www.believed-breadfruit.top/2026/01/20/2026-01-20-讲讲这一年非常喜欢的系统论/)
 - [2026-01-03-2025年写作总结](https://www.believed-breadfruit.top/2026/01/03/2026-01-03-2025年写作总结/)
 - [2026-01-02-学英语还要背单词吗](https://www.believed-breadfruit.top/2026/01/02/2026-01-02-学英语还要背单词吗/)
