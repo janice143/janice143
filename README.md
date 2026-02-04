@@ -44,7 +44,7 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
-- [2026-02-04-如何做技术重构？](https://www.believed-breadfruit.top/2026/02/04/2026-02-04-如何做技术重构？/)
+- [2026-02-04-如何做技术重构](https://www.believed-breadfruit.top/2026/02/04/2026-02-04-如何做技术重构/)
 - [2026-02-01-paul-graham《how-to-do-great-work》（2023-年-7-月）](https://www.believed-breadfruit.top/2026/02/01/2026-02-01-paul-graham《how-to-do-great-work》（2023-年-7-月）/)
 - [2026-01-20-讲讲这一年非常喜欢的系统论](https://www.believed-breadfruit.top/2026/01/20/2026-01-20-讲讲这一年非常喜欢的系统论/)
 - [2026-01-03-2025年写作总结](https://www.believed-breadfruit.top/2026/01/03/2026-01-03-2025年写作总结/)
