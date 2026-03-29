@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2026-03-29-四个模型，一个问题，截然不同的答案，一次底层分析](https://www.believed-breadfruit.top/2026/03/29/2026-03-29-四个模型，一个问题，截然不同的答案，一次底层分析/)
 - [2026-03-14-第一性原理理解性能优化](https://www.believed-breadfruit.top/2026/03/14/2026-03-14-第一性原理理解性能优化/)
 - [2026-02-26-对ai和职业的思考](https://www.believed-breadfruit.top/2026/02/26/2026-02-26-对ai和职业的思考/)
 - [2026-02-25-前端面试准备，为什么你总感觉准备不完](https://www.believed-breadfruit.top/2026/02/25/2026-02-25-前端面试准备，为什么你总感觉准备不完/)
 - [2026-02-12-关于野生架构、标准化、赚钱和我到底想成为什么样的人](https://www.believed-breadfruit.top/2026/02/12/2026-02-12-关于野生架构、标准化、赚钱和我到底想成为什么样的人/)
-- [2026-02-04-如何做技术重构](https://www.believed-breadfruit.top/2026/02/04/2026-02-04-如何做技术重构/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
