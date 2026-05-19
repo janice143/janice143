@@ -46,9 +46,9 @@ One more thing, I'm crazy about **thinking and writing**.
 
 - [2026-05-10-互联网行业周期和ai结构性影响因素](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-互联网行业周期和ai结构性影响因素/)
 - [2026-05-10-ce-plan-技术实现深度解析：从需求到计划的工程化工作流](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-ce-plan-技术实现深度解析：从需求到计划的工程化工作流/)
+- [2026-05-10-Promise-Deferred-Pattern](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-Promise-Deferred-Pattern/)
 - [2026-05-09-eva-源码深度解析：一个单文件-ai-agent-设计](https://www.believed-breadfruit.top/2026/05/09/2026-05-09-eva-源码深度解析：一个单文件-ai-agent-设计/)
 - [2026-05-08-research-eva-代码仓库实现分析](https://www.believed-breadfruit.top/2026/05/08/2026-05-08-research-eva-代码仓库实现分析/)
-- [2026-04-13-whistle-抓包调试工具：从原理到实战全指南](https://www.believed-breadfruit.top/2026/04/13/2026-04-13-whistle-抓包调试工具：从原理到实战全指南/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
