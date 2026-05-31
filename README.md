@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2026-06-01-从零构建一个不断长大的AI-Agent](https://www.believed-breadfruit.top/2026/06/01/2026-06-01-从零构建一个不断长大的AI-Agent/)
 - [2026-06-01-claude-code过程观测](https://www.believed-breadfruit.top/2026/06/01/2026-06-01-claude-code过程观测/)
 - [2026-05-10-互联网行业周期和ai结构性影响因素](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-互联网行业周期和ai结构性影响因素/)
 - [2026-05-10-ce-plan-技术实现深度解析：从需求到计划的工程化工作流](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-ce-plan-技术实现深度解析：从需求到计划的工程化工作流/)
 - [2026-05-10-Promise-Deferred-Pattern](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-Promise-Deferred-Pattern/)
-- [2026-05-09-eva-源码深度解析：一个单文件-ai-agent-设计](https://www.believed-breadfruit.top/2026/05/09/2026-05-09-eva-源码深度解析：一个单文件-ai-agent-设计/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
