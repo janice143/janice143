@@ -44,7 +44,7 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
-- [2026-06-01-从零构建一个不断长大的AI-Agent](https://www.believed-breadfruit.top/2026/06/01/2026-06-01-从零构建一个不断长大的AI-Agent/)
+- [2026-06-03-技术消失的基础设施](https://www.believed-breadfruit.top/2026/06/03/2026-06-03-技术消失的基础设施/)
 - [2026-06-01-claude-code过程观测](https://www.believed-breadfruit.top/2026/06/01/2026-06-01-claude-code过程观测/)
 - [2026-05-10-互联网行业周期和ai结构性影响因素](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-互联网行业周期和ai结构性影响因素/)
 - [2026-05-10-ce-plan-技术实现深度解析：从需求到计划的工程化工作流](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-ce-plan-技术实现深度解析：从需求到计划的工程化工作流/)
