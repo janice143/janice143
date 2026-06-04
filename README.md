@@ -48,7 +48,7 @@ One more thing, I'm crazy about **thinking and writing**.
 - [2026-06-03-技术消失的基础设施](https://www.believed-breadfruit.top/2026/06/03/2026-06-03-技术消失的基础设施/)
 - [2026-06-01-claude-code过程观测](https://www.believed-breadfruit.top/2026/06/01/2026-06-01-claude-code过程观测/)
 - [2026-05-30-斯多葛哲学很多理念和我类似](https://www.believed-breadfruit.top/2026/05/30/2026-05-30-斯多葛哲学很多理念和我类似/)
-- [2026-05-10-互联网行业周期和ai结构性影响因素](https://www.believed-breadfruit.top/2026/05/10/2026-05-10-互联网行业周期和ai结构性影响因素/)
+- [2026-05-24-我的自律观-2-0](https://www.believed-breadfruit.top/2026/05/24/2026-05-24-我的自律观-2-0/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
