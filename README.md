@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2026-09-07-小狗跟随鼠标旋转：雪碧图+数学模型的极简实现](https://www.believed-breadfruit.top/2026/09/07/2026-09-07-小狗跟随鼠标旋转：雪碧图+数学模型的极简实现/)
 - [2026-07-26-为什么普通人更应该坚持理想](https://www.believed-breadfruit.top/2026/07/26/2026-07-26-为什么普通人更应该坚持理想/)
 - [2026-07-24-当一个人的认知阈值被拉高后](https://www.believed-breadfruit.top/2026/07/24/2026-07-24-当一个人的认知阈值被拉高后/)
 - [2026-07-05-怀疑平衡一定是好的这个假设](https://www.believed-breadfruit.top/2026/07/05/2026-07-05-怀疑平衡一定是好的这个假设/)
 - [2026-06-05-对工程实践有了新认识](https://www.believed-breadfruit.top/2026/06/05/2026-06-05-对工程实践有了新认识/)
-- [2026-06-03-技术消失的基础设施](https://www.believed-breadfruit.top/2026/06/03/2026-06-03-技术消失的基础设施/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
