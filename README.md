@@ -1,45 +1,34 @@
-## Hi there 👋
+# Hi there
 
-Hi, I'm Alicia, a passionate self-taught front-end developer with a growing fascination for AI. I love experimenting with AI technologies—whether to solve real-world problems or simply for the thrill of discovery.
+Hi, I'm Daria. My interests are primarily in **Computational Optics / AI / Software Development**.
 
-I like to imagine myself as a monkey hitting keys on life's great typewriter, hoping to whip up my own Shakespeare. Fueled by infinite possibilities and a touch of chaos, I’m here to explore, create, and see where randomness takes me.
+I enjoy the principles behind a system and turning that understanding into something real. Starting with mathematical models, algorithms, and experiments, I gradually turn vague problems into programs that can run, be validated, and be interacted with. Writing helps me organize the thinking along the way.
 
-Here are some facts about me:
+This is where I document the projects I am building, technical explorations, and long-term thoughts on software, science, and personal cognition.
 
-- Earned my **bachelor's and master's degrees** from ZJNU, participated in [competitions](https://www.google.com/search?q=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6++%2B%E5%85%B0%E7%87%95%E5%B9%B3&num=10&newwindow=1&sca_esv=b04edf4c6777ddf8&ei=vIjIZ6SCKfuVjuMP9rGByAQ&ved=0ahUKEwik0MPDuvOLAxX7imMGHfZYAEkQ4dUDCBA&uact=5&oq=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6++%2B%E5%85%B0%E7%87%95%E5%B9%B3&gs_lp=Egxnd3Mtd2l6LXNlcnAiHua1meaxn-W4iOiMg-Wkp-WtpiAgK-WFsOeHleW5s0iICFDsBVjsBXABeACQAQCYAZEBoAGRAaoBAzAuMbgBA8gBAPgBAZgCAaACA8ICCBAAGLADGO8FwgILEAAYgAQYsAMYogSYAwCIBgGQBgWSBwExoAdX&sclient=gws-wiz-serp), published [research papers](https://www.bing.com/search?q=浙江师范大学+%22兰燕平%22&qs=n&form=QBRE&sp=-1&lq=0&pq=浙江师范大学+%22兰燕平%22&sc=1-12&sk=&cvid=E21EF061B50A470A9512B0DE06441D9A&ghsh=0&ghacc=0&ghpl=), and secured [patents](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=15007414_9_dg&wd=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%20%E5%85%B0%E7%87%95%E5%B9%B3&oq=%25E6%25B5%2599%25E6%25B1%259F%25E5%25B8%2588%25E8%258C%2583%25E5%25A4%25A7%25E5%25AD%25A6%2520%252B%25E5%2585%25B0%25E7%2587%2595%25E5%25B9%25B3&rsv_pq=f4eb7cc70008de08&rsv_t=6160P%2BNxvc6MeptEvYh%2Fwmb5kjzWrBcjIY8ljSRYVegn2fUxUuoUTPtTDad96gjt3Gat%2Fg&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=925&rsv_sug3=17&rsv_sug1=18&rsv_sug7=100&bs=%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%20%2B%E5%85%B0%E7%87%95%E5%B9%B3).
-- My [ORCID](https://orcid.org/0000-0002-8704-254X) profile lists 5 papers where I am the first author.
-- Worked at [Goodme Tech](http://www.goodmecha.cn/) from November 2022 to December 2024 and published [3 articles](https://juejin.cn/post/7323436080312893476) on the [古茗掘金](https://juejin.cn/user/3233040624266695/) account.
+## Projects
 
-<!-- [![lanyanping's GitHub stats](https://github-readme-stats.vercel.app/api?username=janice143&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
+- **[Computational Optics Lab](https://github.com/janice143/computational-optics)** — Turning optical models into runnable, inspectable Python experiments.
+- **[More on GitHub →](https://github.com/janice143)**
 
-Feel free to reach out to me:
+## Writing
 
-- **[GitHub](https://github.com/janice143)**  
-- **[掘金](https://juejin.cn/user/2889962280982936)**
-- **[墨问](../images/about/sharePeople.png)**  
-- **[邮箱](mailto:lanyp_iaine@163.com)**  
-- **[微信](../images/about/wechat.png)**
+- [Atypical](https://believed-breadfruit.top/) is for in-depth technical explorations and long-form writing.
+- [Mowen](https://note.mowen.cn/user/-HvTNe8K6obWxOULo0Gtg) is for shorter, more immediate notes—something like a public feed.
 
-<!--
-**janice143/janice143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Background
 
-Here are some ideas to get you started:
+- **Front-end Developer, Shenzhen (2026—present)** — Building experience with software systems, consumer-facing products, and mobile development.
+- **Frontend Developer, Every Matrix (2025—2026)** — Front-end work at an international company.
+- **Frontend Engineer, GoodMe Technology (2022—2024)**
+- **B.S. and M.S., Zhejiang Normal University (2016—2023)** — Optical Engineering and Optoelectronic Information Science and Engineering. Author of five first-author papers, listed on [ORCID](https://orcid.org/0000-0002-8704-254X). Previous research focus on beam shaping, structural light and optical caustics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+- **Email**: `lanjanice1 (at symbol) gmail.com`
+- **WeChat**: `__A4u__`
 
 ---
-
-<br/>
-
-One more thing, I'm crazy about **thinking and writing**.
 
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
