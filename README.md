@@ -44,11 +44,11 @@ One more thing, I'm crazy about **thinking and writing**.
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2026-09-14-用-PyTorch-实现一个可微光学逆向设计系统](https://www.believed-breadfruit.top/2026/09/14/2026-09-14-用-PyTorch-实现一个可微光学逆向设计系统/)
 - [2026-09-14-用-NumPy-+-Autograd-复现-TorchOptics-的可微光学逆向设计](https://www.believed-breadfruit.top/2026/09/14/2026-09-14-用-NumPy-+-Autograd-复现-TorchOptics-的可微光学逆向设计/)
 - [2026-09-11-Propagation-Family：从-Maxwell-方程到-RS、ASM、Fresnel-与-Fraunhofer](https://www.believed-breadfruit.top/2026/09/11/2026-09-11-Propagation-Family：从-Maxwell-方程到-RS、ASM、Fresnel-与-Fraunhofer/)
 - [2026-09-07-小狗跟随鼠标旋转：雪碧图+数学模型的极简实现](https://www.believed-breadfruit.top/2026/09/07/2026-09-07-小狗跟随鼠标旋转：雪碧图+数学模型的极简实现/)
 - [2026-07-26-为什么普通人更应该坚持理想](https://www.believed-breadfruit.top/2026/07/26/2026-07-26-为什么普通人更应该坚持理想/)
-- [2026-07-24-当一个人的认知阈值被拉高后](https://www.believed-breadfruit.top/2026/07/24/2026-07-24-当一个人的认知阈值被拉高后/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
