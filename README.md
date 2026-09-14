@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 
 Hi, I'm Daria. My interests are primarily in **Computational Optics / AI / Software Development**.
 
