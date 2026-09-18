@@ -33,11 +33,11 @@ This is where I document the projects I am building, technical explorations, and
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
+- [2026-09-18-用-TorchOptics-逆向设计一条凸-Accelerating-Beam-轨迹](https://www.believed-breadfruit.top/2026/09/18/2026-09-18-用-TorchOptics-逆向设计一条凸-Accelerating-Beam-轨迹/)
 - [2026-09-14-用-PyTorch-实现一个可微光学逆向设计系统](https://www.believed-breadfruit.top/2026/09/14/2026-09-14-用-PyTorch-实现一个可微光学逆向设计系统/)
 - [2026-09-14-用-NumPy-与-Autograd-实现可微光学逆向设计](https://www.believed-breadfruit.top/2026/09/14/2026-09-14-用-NumPy-与-Autograd-实现可微光学逆向设计/)
 - [2026-09-11-Propagation-Family：从-Maxwell-方程到-RS、ASM、Fresnel-与-Fraunhofer](https://www.believed-breadfruit.top/2026/09/11/2026-09-11-Propagation-Family：从-Maxwell-方程到-RS、ASM、Fresnel-与-Fraunhofer/)
 - [2026-09-07-小狗跟随鼠标旋转：雪碧图+数学模型的极简实现](https://www.believed-breadfruit.top/2026/09/07/2026-09-07-小狗跟随鼠标旋转：雪碧图+数学模型的极简实现/)
-- [2026-09-06-随心迹：我为什么要做一款复盘小程序](https://www.believed-breadfruit.top/2026/09/06/2026-09-06-随心迹：我为什么要做一款复盘小程序/)
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
 <!-- LATEST_BLOG_POSTS__END -->
