@@ -33,7 +33,7 @@ This is where I document the projects I am building, technical explorations, and
 ## Recent posts
 <!-- LATEST_BLOG_POSTS__START -->
 
-- [2026-09-21-数值光学仿真前为什么需要-Sanity-Check](https://www.believed-breadfruit.top/2026/09/21/2026-09-21-数值光学仿真前为什么需要-Sanity-Check/)
+- [2026-09-21-用-Python-写一个数值光学-Sanity-Checker：传播前先检查这-6-个问题](https://www.believed-breadfruit.top/2026/09/21/2026-09-21-用-Python-写一个数值光学-Sanity-Checker：传播前先检查这-6-个问题/)
 - [2026-09-18-用-TorchOptics-逆向设计一条凸-Accelerating-Beam-轨迹](https://www.believed-breadfruit.top/2026/09/18/2026-09-18-用-TorchOptics-逆向设计一条凸-Accelerating-Beam-轨迹/)
 - [2026-09-14-用-PyTorch-实现一个可微光学逆向设计系统](https://www.believed-breadfruit.top/2026/09/14/2026-09-14-用-PyTorch-实现一个可微光学逆向设计系统/)
 - [2026-09-14-用-NumPy-与-Autograd-实现可微光学逆向设计](https://www.believed-breadfruit.top/2026/09/14/2026-09-14-用-NumPy-与-Autograd-实现可微光学逆向设计/)
