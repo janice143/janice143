@@ -8,7 +8,7 @@ This is where I document the projects I am building, technical explorations, and
 
 ## Projects
 
-- **[Computational Optics Lab](https://github.com/janice143/computational-optics)** — Turning optical models into runnable, inspectable Python experiments.
+- **[Optical Propagation Sanity Check](https://github.com/janice143/optical-propagation-sanity-check)** — Checking numerical stability, sampling adequacy, and discretization risks in scalar wave propagation.
 - **[More on GitHub →](https://github.com/janice143)**
 
 ## Writing
